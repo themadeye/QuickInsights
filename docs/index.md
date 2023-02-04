@@ -25,6 +25,19 @@ Area chart allows user to create a graph that combines a line chart and a bar ch
 2. Once you are in the page edit mode, locate the dropdown menu with `+` icon. Enter the macro name: `QuickInsights` and select the macro.
 
 ![](./images/search-macro.png)
+3. A macro editor will popup, select Area Charts from the dropdown menu.
+
+![](./images/editor.png)
+4. You can start configuring the chart by entering Title, Dataset Title, Label, and Color.
+
+![](./images/select-color.png)
+5. Add more labels or datasets by click the ![](./images/plusicon.png) icon.
+
+![](./images/multi-datasets.png)
+6. Click `Submit` button when you are done configuring it, and here you go!
+
+![](./images/areachart.png)
+
 
 
 
