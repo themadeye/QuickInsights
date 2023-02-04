@@ -17,4 +17,14 @@ QuickInsights for Confluence cloud is a useful tool that provide a simple and ea
 
 ## Macros Usages <a name="macrousage"></a> ##
 ### Area Charts <a name="areachart"></a> ###
-Area chart allows user to create a graph that combines a line chart and a bar chart to show changes in quantities over time. It’s similar to a line graph in that data points are plotted and connected by line segments. However, the area below the line is colored in or shaded. Then, other values are plotted below the lines and shaded in a different color, resulting in a chart with layers.
+Area chart allows user to create a graph that combines a line chart and a bar chart to show changes in quantities over time. 
+####How to configure Area Charts <a name="areachart"></a>
+1. Navigate to the page and enter Edit mode.
+
+![](../images/page-edit.png)
+2. Once you are in the page edit mode, locate the dropdown menu with `+` icon. Enter the macro name: `QuickInsights` and select the macro.
+
+![](../images/search-macro.png)
+
+
+
