@@ -21,10 +21,10 @@ Area chart allows user to create a graph that combines a line chart and a bar ch
 ####How to configure Area Charts <a name="areachart"></a>
 1. Navigate to the page and enter Edit mode.
 
-![](../images/page-edit.png)
+![](./images/page-edit.png)
 2. Once you are in the page edit mode, locate the dropdown menu with `+` icon. Enter the macro name: `QuickInsights` and select the macro.
 
-![](../images/search-macro.png)
+![](./images/search-macro.png)
 
 
 
