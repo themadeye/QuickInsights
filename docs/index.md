@@ -1,5 +1,5 @@
-# Welcome to QuickInsights for Confluence Cloud
-1. [Quick Introduction](#intro)
+
+1. [Welcome to QuickInsights for Confluence Cloud](#intro)
 2. [Macros Usages](#macrousage)
     1. [Area Charts](#areachart)
     2. [Bar Charts](#barchart)
@@ -11,7 +11,7 @@
     1. []()
 
 
-## Quick Introduction <a name="intro"></a> ##
+## Welcome to QuickInsights for Confluence Cloud <a name="intro"></a> ##
 QuickInsights for Confluence cloud is a useful tool that provide a simple and easy way to create a data visualized chart for your page. QuickInsights chart can be created to give a clear insight into patterns, trends and great representations of a given data sets. 
 
 
