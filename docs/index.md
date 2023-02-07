@@ -9,8 +9,6 @@
     6. [Radar Chart](#radarchart)
 3. [Support](#support)
     1. [Contact us](#contactus)
-4. [FAQ](#faq)
-    1. []()
 
 
 ## Welcome to QuickInsights for Confluence Cloud <a name="intro"></a> ##
@@ -170,6 +168,12 @@ Radar chart allows user to create a visualized graph that displays multivariate 
  5. Click `Submit` button when you are done configuring it, and here you go!
 
 ![](./images/radarchart.png)
+
+## Support <a name="support"></a> ##
+### Contact us <a name="contactus"></a> ###
+If you need any support, or want to provide some feedback. Please do not hesitate to get in touch with us! We are always looking for ways to improve!
+
+support@builderlaboratory.com
 
 
 
